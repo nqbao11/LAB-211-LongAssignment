@@ -1,3 +1,3 @@
 # LAB-211-LongAssignment
 
-Hello Everyone
+Hi guys! Welcome to final assignment of group 1.
